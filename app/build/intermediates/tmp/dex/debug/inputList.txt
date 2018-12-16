@@ -1,0 +1,6 @@
+D:\AndroidWorkspaceStudio\LocationBasedAlarmService\app\build\intermediates\classes\debug
+D:\AndroidWorkspaceStudio\LocationBasedAlarmService\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1098c5adfda9ec57761c7d3e4fc2f81744e4d73b.jar
+D:\AndroidWorkspaceStudio\LocationBasedAlarmService\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b1f51af339a84692d9dac2820e3e6be0f7bf615e.jar
+D:\AndroidWorkspaceStudio\LocationBasedAlarmService\app\build\intermediates\pre-dexed\debug\classes-d4780632142ddf35ea3ec530983f95301b8e8cdf.jar
+D:\AndroidWorkspaceStudio\LocationBasedAlarmService\app\build\intermediates\pre-dexed\debug\classes-74ff3fee75eea24e54c41ccd6e067a73e893e800.jar
+D:\AndroidWorkspaceStudio\LocationBasedAlarmService\app\build\intermediates\pre-dexed\debug\classes-b3dca5716466e466038a457698c7eb56d04a2fea.jar

@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context="com.example.lbas.locationbasedalarmservice.AboutActivity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.97"
+        android:scrollbars="vertical" >
+
+    <TextView
+        android:textColor="#FFFFFF"
+        android:text="It is a kind of application which reminds you about your tasks/activities based on your location. \r\n\r\n Assume that when you are returning home from work and you have to take some grocery or gift or books for kid or do some important task, how would it be if someone reminded you about it, exactly reaching or passing through a shopping mall or important place? Yes, it would be amazing right! That’s what this application does. \r\n\r\nHow to use the application:-\r\n&#8226; In this application you have to add reminder on a map and save the task for location reminder. \r\n &#8226; Once the reminder is scheduled, this app will keep checking your location. When you reached a desired location or nearby, this app will notify you through the reminder. \r\n\r\n Contact Us-contact@gmail.com \r\n\r\n Made By- \r\n Nishat Sayyed - 8879581196 \r\n Huzefa Bandookwala - 8446963753 \r\n Saheb Shaikh - 7350099764 \r\n Mohammed Painter - 9664700720 \r\n Safwan Kurawlay - 7208698401" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    </ScrollView>
+
+</RelativeLayout>
+<!-- From: file:/E:/LocationBasedAlarmService/app/src/main/res/layout/activity_about.xml -->
